@@ -1,0 +1,6 @@
+The 4 AI platforms all exhibit different styles with the same prompts.
+ChatGPT exhibits more into detail featuring a cinematic-like lighting and more bold colors.
+ChatOn exhibits a more cartoon-like with a softer take on colors and lighting.
+Copilot has a similar take with Chaton with softer approach.
+Gemini produces more similar to the prompts given with a bolder take on realistic style and softer colors on cartoon styles.
+The 4 AI platforms still have their own different approach and gives all of it gives a fresh take.
